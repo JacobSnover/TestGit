@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ShaKy\\Source\\Repos\\TestGit\\TestGit\\TestGit.csproj": {}
+    "C:\\Users\\Jason Gardner\\Documents\\Projects\\ClassWork\\TestGit\\TestGit\\TestGit\\TestGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ShaKy\\Source\\Repos\\TestGit\\TestGit\\TestGit.csproj": {
+    "C:\\Users\\Jason Gardner\\Documents\\Projects\\ClassWork\\TestGit\\TestGit\\TestGit\\TestGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ShaKy\\Source\\Repos\\TestGit\\TestGit\\TestGit.csproj",
+        "projectUniqueName": "C:\\Users\\Jason Gardner\\Documents\\Projects\\ClassWork\\TestGit\\TestGit\\TestGit\\TestGit.csproj",
         "projectName": "TestGit",
-        "projectPath": "C:\\Users\\ShaKy\\Source\\Repos\\TestGit\\TestGit\\TestGit.csproj",
-        "packagesPath": "C:\\Users\\ShaKy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ShaKy\\Source\\Repos\\TestGit\\TestGit\\obj\\",
+        "projectPath": "C:\\Users\\Jason Gardner\\Documents\\Projects\\ClassWork\\TestGit\\TestGit\\TestGit\\TestGit.csproj",
+        "packagesPath": "C:\\Users\\Jason Gardner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jason Gardner\\Documents\\Projects\\ClassWork\\TestGit\\TestGit\\TestGit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ShaKy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jason Gardner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
