@@ -10,5 +10,10 @@ namespace TestGit
             //we made it
             Console.WriteLine("Hello World!");
         }
+
+        public void Add()
+        {
+            //this doesn't do a whole lot
+        }
     }
 }
