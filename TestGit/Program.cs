@@ -11,9 +11,15 @@ namespace TestGit
             Console.WriteLine("Hello World!");
         }
 
+
         public static string Message()
         {
             return "This is your life on C#.";
+        }
+        public void Add()
+        {
+            //this doesn't do a whole lot
+
         }
     }
 }
